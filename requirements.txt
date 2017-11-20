@@ -1,3 +1,4 @@
+telepot
 appdirs==1.4.3
 DateTime==4.2
 packaging==16.8
